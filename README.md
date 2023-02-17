@@ -1,1 +1,8 @@
-# Java-Lang-Praktich-4-Varian
+Первая Практическая Вариант 4 Осипов Николай Ис -102 (2в)![1](https://user-images.githubusercontent.com/115313324/219651054-cfbc6b03-e589-4fcf-854f-512d8f7af9ba.jpg)
+![2](https://user-images.githubusercontent.com/115313324/219651065-4fefb47c-5c56-467d-a086-7cf7f33f1a15.jpg)
+![3](https://user-images.githubusercontent.com/115313324/219651069-dcbe4cf8-d916-4d14-aeac-ce24f288d5a7.jpg)
+![4](https://user-images.githubusercontent.com/115313324/219651077-30e878be-dc5b-4a46-8149-f734d9beaaf6.jpg)
+![5](https://user-images.githubusercontent.com/115313324/219651080-e05cf439-9cd6-445a-aacb-eb2bb046e7ae.jpg)
+![6](https://user-images.githubusercontent.com/115313324/219651085-04697e16-6c0f-418f-ae91-69e5da711286.jpg)
+![7](https://user-images.githubusercontent.com/115313324/219651097-9c2531d2-4343-40fb-9243-96840cc1f95f.jpg)
+![8](https://user-images.githubusercontent.com/115313324/219651105-8ecc6ff9-e725-40a2-9d24-3caa454a88d0.jpg)
